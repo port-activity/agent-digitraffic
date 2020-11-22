@@ -1,0 +1,35 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: agent-digitraffic
+spec:
+  schedule: "*/5 * * * *"
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      activeDeadlineSeconds: 600
+      backoffLimit: 1
+      template:
+        spec:
+          restartPolicy: Never
+          imagePullSecrets:
+          - name: pipeline-docker-registry
+          containers:
+          - name: agent-digitraffic
+            image: ${CICD_IMAGE}:${CICD_EXECUTION_SEQUENCE}-${CICD_GIT_COMMIT}
+            env:
+              - name: API_URL
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-digitraffic
+                    key: API_URL
+              - name: API_KEY
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-digitraffic
+                    key: API_KEY
+              - name: AINO_API_KEY
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-digitraffic
+                    key: AINO_API_KEY

@@ -1,0 +1,20 @@
+# This is a sample build configuration for PHP.
+# Check our guides at https://confluence.atlassian.com/x/e8YWN for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: php:7
+
+pipelines:
+  default:
+    - step:
+        caches:
+          - composer
+        script:
+          - apt update
+          - apt install -y wget git zip unzip
+          - wget https://getcomposer.org/installer
+          - php installer
+          - php composer.phar install
+          - make lint
+          - make test

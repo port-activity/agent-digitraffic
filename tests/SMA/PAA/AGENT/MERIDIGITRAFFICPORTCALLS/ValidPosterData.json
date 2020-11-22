@@ -1,0 +1,736 @@
+[
+    {
+        "imo": 9307384,
+        "vessel_name": "Trica",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-22T04:00:00+0000",
+        "payload": {
+            "from_port": "FIHKO",
+            "to_port": "FIRAU",
+            "next_port": "FIHKO",
+            "nationality": "NL",
+            "call_sign": "PHLV",
+            "mmsi": 244912000,
+            "external_id": 2468263,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 5"
+        }
+    },
+    {
+        "imo": 9307384,
+        "vessel_name": "Trica",
+        "time_type": "Actual",
+        "state": "Arrival_Vessel_Berth",
+        "time": "2019-10-22T03:55:00+0000",
+        "payload": {
+            "from_port": "FIHKO",
+            "to_port": "FIRAU",
+            "next_port": "FIHKO",
+            "nationality": "NL",
+            "call_sign": "PHLV",
+            "mmsi": 244912000,
+            "external_id": 2468263,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 5"
+        }
+    },
+    {
+        "imo": 9307384,
+        "vessel_name": "Trica",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-22T20:00:00+0000",
+        "payload": {
+            "from_port": "FIHKO",
+            "to_port": "FIRAU",
+            "next_port": "FIHKO",
+            "nationality": "NL",
+            "call_sign": "PHLV",
+            "mmsi": 244912000,
+            "external_id": 2468263,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 5"
+        }
+    },
+    {
+        "imo": 9307384,
+        "vessel_name": "Trica",
+        "time_type": "Actual",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-22T21:30:00+0000",
+        "payload": {
+            "from_port": "FIHKO",
+            "to_port": "FIRAU",
+            "next_port": "FIHKO",
+            "nationality": "NL",
+            "call_sign": "PHLV",
+            "mmsi": 244912000,
+            "external_id": 2468263,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 5"
+        }
+    },
+    {
+        "imo": 9202522,
+        "vessel_name": "Sluisgracht",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-17T08:30:00+0000",
+        "payload": {
+            "from_port": "USJAX",
+            "to_port": "FIRAU",
+            "next_port": "FIUKI",
+            "nationality": "NL",
+            "call_sign": "PFBE",
+            "mmsi": 244903000,
+            "external_id": 2468511,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 6"
+        }
+    },
+    {
+        "imo": 9202522,
+        "vessel_name": "Sluisgracht",
+        "time_type": "Actual",
+        "state": "Arrival_Vessel_Berth",
+        "time": "2019-10-17T09:00:00+0000",
+        "payload": {
+            "from_port": "USJAX",
+            "to_port": "FIRAU",
+            "next_port": "FIUKI",
+            "nationality": "NL",
+            "call_sign": "PFBE",
+            "mmsi": 244903000,
+            "external_id": 2468511,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 6"
+        }
+    },
+    {
+        "imo": 9202522,
+        "vessel_name": "Sluisgracht",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-23T06:05:00+0000",
+        "payload": {
+            "from_port": "USJAX",
+            "to_port": "FIRAU",
+            "next_port": "FIUKI",
+            "nationality": "NL",
+            "call_sign": "PFBE",
+            "mmsi": 244903000,
+            "external_id": 2468511,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 6"
+        }
+    },
+    {
+        "imo": 9202522,
+        "vessel_name": "Sluisgracht",
+        "time_type": "Actual",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-23T03:10:00+0000",
+        "payload": {
+            "from_port": "USJAX",
+            "to_port": "FIRAU",
+            "next_port": "FIUKI",
+            "nationality": "NL",
+            "call_sign": "PFBE",
+            "mmsi": 244903000,
+            "external_id": 2468511,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 6"
+        }
+    },
+    {
+        "imo": 9359258,
+        "vessel_name": "Emotion",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-23T12:05:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "NL",
+            "call_sign": "PBKY",
+            "mmsi": 244874000,
+            "external_id": 2469970,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9359258,
+        "vessel_name": "Emotion",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-24T12:05:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "NL",
+            "call_sign": "PBKY",
+            "mmsi": 244874000,
+            "external_id": 2469970,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9313199,
+        "vessel_name": "Baltic Tern",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-22T09:30:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "CY",
+            "call_sign": "5BSB4",
+            "mmsi": 636091997,
+            "external_id": 2470282,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 1"
+        }
+    },
+    {
+        "imo": 9313199,
+        "vessel_name": "Baltic Tern",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-22T21:00:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "CY",
+            "call_sign": "5BSB4",
+            "mmsi": 636091997,
+            "external_id": 2470282,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 1"
+        }
+    },
+    {
+        "imo": 9313199,
+        "vessel_name": "Baltic Tern",
+        "time_type": "Actual",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-23T11:10:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "CY",
+            "call_sign": "5BSB4",
+            "mmsi": 636091997,
+            "external_id": 2470282,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 1"
+        }
+    },
+    {
+        "imo": 9344710,
+        "vessel_name": "Violetta",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-23T22:16:00+0000",
+        "payload": {
+            "from_port": "FIHEL",
+            "to_port": "FIRAU",
+            "next_port": "BEANR",
+            "nationality": "PT",
+            "call_sign": "CQAR8",
+            "mmsi": 538090271,
+            "external_id": 2470636,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 3"
+        }
+    },
+    {
+        "imo": 9344710,
+        "vessel_name": "Violetta",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-24T21:30:00+0000",
+        "payload": {
+            "from_port": "FIHEL",
+            "to_port": "FIRAU",
+            "next_port": "BEANR",
+            "nationality": "PT",
+            "call_sign": "CQAR8",
+            "mmsi": 538090271,
+            "external_id": 2470636,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 3"
+        }
+    },
+    {
+        "imo": 9775763,
+        "vessel_name": "Venta Maersk",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-21T04:05:00+0000",
+        "payload": {
+            "from_port": "RULED",
+            "to_port": "FIRAU",
+            "next_port": "PLGDN",
+            "nationality": "DK",
+            "call_sign": "OWHH2",
+            "external_id": 2471490,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 3"
+        }
+    },
+    {
+        "imo": 9775763,
+        "vessel_name": "Venta Maersk",
+        "time_type": "Actual",
+        "state": "Arrival_Vessel_Berth",
+        "time": "2019-10-21T04:00:00+0000",
+        "payload": {
+            "from_port": "RULED",
+            "to_port": "FIRAU",
+            "next_port": "PLGDN",
+            "nationality": "DK",
+            "call_sign": "OWHH2",
+            "external_id": 2471490,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 3"
+        }
+    },
+    {
+        "imo": 9775763,
+        "vessel_name": "Venta Maersk",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-22T15:00:00+0000",
+        "payload": {
+            "from_port": "RULED",
+            "to_port": "FIRAU",
+            "next_port": "PLGDN",
+            "nationality": "DK",
+            "call_sign": "OWHH2",
+            "external_id": 2471490,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 3"
+        }
+    },
+    {
+        "imo": 9775763,
+        "vessel_name": "Venta Maersk",
+        "time_type": "Actual",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-23T09:55:00+0000",
+        "payload": {
+            "from_port": "RULED",
+            "to_port": "FIRAU",
+            "next_port": "PLGDN",
+            "nationality": "DK",
+            "call_sign": "OWHH2",
+            "external_id": 2471490,
+            "source": "digitraffic",
+            "berth_name": "Konttilaituri 3"
+        }
+    },
+    {
+        "imo": 9201803,
+        "vessel_name": "Lady Clarissa",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-22T02:05:00+0000",
+        "payload": {
+            "from_port": "NLVLI",
+            "to_port": "FIRAU",
+            "next_port": "FIPRS",
+            "nationality": "NL",
+            "call_sign": "PDBB",
+            "external_id": 2471735,
+            "source": "digitraffic",
+            "berth_name": "Nro 21"
+        }
+    },
+    {
+        "imo": 9201803,
+        "vessel_name": "Lady Clarissa",
+        "time_type": "Actual",
+        "state": "Arrival_Vessel_Berth",
+        "time": "2019-10-22T03:15:00+0000",
+        "payload": {
+            "from_port": "NLVLI",
+            "to_port": "FIRAU",
+            "next_port": "FIPRS",
+            "nationality": "NL",
+            "call_sign": "PDBB",
+            "external_id": 2471735,
+            "source": "digitraffic",
+            "berth_name": "Nro 21"
+        }
+    },
+    {
+        "imo": 9201803,
+        "vessel_name": "Lady Clarissa",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-22T20:59:00+0000",
+        "payload": {
+            "from_port": "NLVLI",
+            "to_port": "FIRAU",
+            "next_port": "FIPRS",
+            "nationality": "NL",
+            "call_sign": "PDBB",
+            "external_id": 2471735,
+            "source": "digitraffic",
+            "berth_name": "Nro 21"
+        }
+    },
+    {
+        "imo": 9201803,
+        "vessel_name": "Lady Clarissa",
+        "time_type": "Actual",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-22T22:30:00+0000",
+        "payload": {
+            "from_port": "NLVLI",
+            "to_port": "FIRAU",
+            "next_port": "FIPRS",
+            "nationality": "NL",
+            "call_sign": "PDBB",
+            "external_id": 2471735,
+            "source": "digitraffic",
+            "berth_name": "Nro 21"
+        }
+    },
+    {
+        "imo": 9301598,
+        "vessel_name": "Finnland",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-23T07:30:00+0000",
+        "payload": {
+            "from_port": "LVMRX",
+            "to_port": "FIRAU",
+            "next_port": "FIGDB",
+            "nationality": "GB",
+            "call_sign": "MLGJ9",
+            "mmsi": 235010600,
+            "external_id": 2471819,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 9301598,
+        "vessel_name": "Finnland",
+        "time_type": "Actual",
+        "state": "Arrival_Vessel_Berth",
+        "time": "2019-10-23T07:00:00+0000",
+        "payload": {
+            "from_port": "LVMRX",
+            "to_port": "FIRAU",
+            "next_port": "FIGDB",
+            "nationality": "GB",
+            "call_sign": "MLGJ9",
+            "mmsi": 235010600,
+            "external_id": 2471819,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 9301598,
+        "vessel_name": "Finnland",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-24T07:00:00+0000",
+        "payload": {
+            "from_port": "LVMRX",
+            "to_port": "FIRAU",
+            "next_port": "FIGDB",
+            "nationality": "GB",
+            "call_sign": "MLGJ9",
+            "mmsi": 235010600,
+            "external_id": 2471819,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 9129263,
+        "vessel_name": "Baltic Bright",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-22T04:00:00+0000",
+        "payload": {
+            "from_port": "ESSDR",
+            "to_port": "FIRAU",
+            "next_port": "DERSK",
+            "nationality": "SE",
+            "call_sign": "SIHZ",
+            "mmsi": 265425000,
+            "external_id": 2472476,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 2"
+        }
+    },
+    {
+        "imo": 9129263,
+        "vessel_name": "Baltic Bright",
+        "time_type": "Actual",
+        "state": "Arrival_Vessel_Berth",
+        "time": "2019-10-22T01:40:00+0000",
+        "payload": {
+            "from_port": "ESSDR",
+            "to_port": "FIRAU",
+            "next_port": "DERSK",
+            "nationality": "SE",
+            "call_sign": "SIHZ",
+            "mmsi": 265425000,
+            "external_id": 2472476,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 2"
+        }
+    },
+    {
+        "imo": 9129263,
+        "vessel_name": "Baltic Bright",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-23T09:00:00+0000",
+        "payload": {
+            "from_port": "ESSDR",
+            "to_port": "FIRAU",
+            "next_port": "DERSK",
+            "nationality": "SE",
+            "call_sign": "SIHZ",
+            "mmsi": 265425000,
+            "external_id": 2472476,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 2"
+        }
+    },
+    {
+        "imo": 9129263,
+        "vessel_name": "Baltic Bright",
+        "time_type": "Actual",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-23T06:55:00+0000",
+        "payload": {
+            "from_port": "ESSDR",
+            "to_port": "FIRAU",
+            "next_port": "DERSK",
+            "nationality": "SE",
+            "call_sign": "SIHZ",
+            "mmsi": 265425000,
+            "external_id": 2472476,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 2"
+        }
+    },
+    {
+        "imo": 9313876,
+        "vessel_name": "Steenbank",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-24T03:05:00+0000",
+        "payload": {
+            "from_port": "SENRK",
+            "to_port": "FIRAU",
+            "next_port": "NLVLI",
+            "nationality": "NL",
+            "call_sign": "PHDG",
+            "mmsi": 246125000,
+            "external_id": 2473128,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9313876,
+        "vessel_name": "Steenbank",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-24T21:00:00+0000",
+        "payload": {
+            "from_port": "SENRK",
+            "to_port": "FIRAU",
+            "next_port": "NLVLI",
+            "nationality": "NL",
+            "call_sign": "PHDG",
+            "mmsi": 246125000,
+            "external_id": 2473128,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9704752,
+        "vessel_name": "Tian Shou",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-30T04:00:00+0000",
+        "payload": {
+            "from_port": "FIANK",
+            "to_port": "FIRAU",
+            "next_port": "FIKTK",
+            "nationality": "CN",
+            "call_sign": "VRPA4",
+            "external_id": 2473798,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 4"
+        }
+    },
+    {
+        "imo": 9704752,
+        "vessel_name": "Tian Shou",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-11-05T20:00:00+0000",
+        "payload": {
+            "from_port": "FIANK",
+            "to_port": "FIRAU",
+            "next_port": "FIKTK",
+            "nationality": "CN",
+            "call_sign": "VRPA4",
+            "external_id": 2473798,
+            "source": "digitraffic",
+            "berth_name": "Ro-Ro 4"
+        }
+    },
+    {
+        "imo": 5001839,
+        "vessel_name": "Bison",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-28T10:00:00+0000",
+        "payload": {
+            "from_port": "FITKU",
+            "to_port": "FIRAU",
+            "next_port": "FITKU",
+            "nationality": "FI",
+            "call_sign": "OJNE",
+            "mmsi": 230938570,
+            "external_id": 2473824,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 5001839,
+        "vessel_name": "Bison",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-28T13:00:00+0000",
+        "payload": {
+            "from_port": "FITKU",
+            "to_port": "FIRAU",
+            "next_port": "FITKU",
+            "nationality": "FI",
+            "call_sign": "OJNE",
+            "mmsi": 230938570,
+            "external_id": 2473824,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 8879861,
+        "vessel_name": "Partner",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-28T10:00:00+0000",
+        "payload": {
+            "from_port": "FITKU",
+            "to_port": "FIRAU",
+            "next_port": "FITKU",
+            "nationality": "FI",
+            "call_sign": "OISV",
+            "external_id": 2473827,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 8879861,
+        "vessel_name": "Partner",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-28T13:00:00+0000",
+        "payload": {
+            "from_port": "FITKU",
+            "to_port": "FIRAU",
+            "next_port": "FITKU",
+            "nationality": "FI",
+            "call_sign": "OISV",
+            "external_id": 2473827,
+            "source": "digitraffic",
+            "berth_name": "Mets\u00e4-Botnia"
+        }
+    },
+    {
+        "imo": 9387425,
+        "vessel_name": "Empire",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-30T04:05:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "NL",
+            "call_sign": "PBRA",
+            "mmsi": 245258000,
+            "external_id": 2473830,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9387425,
+        "vessel_name": "Empire",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-10-30T21:05:00+0000",
+        "payload": {
+            "from_port": "EEMUG",
+            "to_port": "FIRAU",
+            "next_port": "DEHAM",
+            "nationality": "NL",
+            "call_sign": "PBRA",
+            "mmsi": 245258000,
+            "external_id": 2473830,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9197911,
+        "vessel_name": "Spiegelgracht",
+        "time_type": "Estimated",
+        "state": "Arrival_Vessel_PortArea",
+        "time": "2019-10-29T07:05:00+0000",
+        "payload": {
+            "from_port": "BRVDC",
+            "to_port": "FIRAU",
+            "next_port": "SEHUS",
+            "nationality": "NL",
+            "call_sign": "PCEO",
+            "external_id": 2473874,
+            "source": "digitraffic"
+        }
+    },
+    {
+        "imo": 9197911,
+        "vessel_name": "Spiegelgracht",
+        "time_type": "Estimated",
+        "state": "Departure_Vessel_Berth",
+        "time": "2019-11-05T22:00:00+0000",
+        "payload": {
+            "from_port": "BRVDC",
+            "to_port": "FIRAU",
+            "next_port": "SEHUS",
+            "nationality": "NL",
+            "call_sign": "PCEO",
+            "external_id": 2473874,
+            "source": "digitraffic"
+        }
+    }
+]
